@@ -16,7 +16,7 @@ import { ContactThree } from "../../components/contact/ContactThree";
 
 export const HomeFour = () => {
   return (
-    <Layout header={4} footer={4}>
+    <Layout header={2} footer={2}>
       {/* hero */}
       <HeroFour />
 

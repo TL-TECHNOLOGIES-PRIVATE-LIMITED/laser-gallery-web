@@ -71,7 +71,31 @@ export const Navbar = ({ hidePortfolio = false }) => {
           </ul>
         </li>
 
-        {hidePortfolio ? null : (
+        <li className="has-dropdown">
+          <Link to="/service">Contact</Link>
+          <ul className="td-submenu submenu">
+            <li>
+              <Link to="/service">Our Products</Link>
+            </li>
+            <li>
+              <Link to="/service-details">Product Details</Link>
+            </li>
+          </ul>
+        </li>
+
+        <li className="has-dropdown">
+          <Link to="/service">FAQ</Link>
+          <ul className="td-submenu submenu">
+            <li>
+              <Link to="/service">Our Products</Link>
+            </li>
+            <li>
+              <Link to="/service-details">Product Details</Link>
+            </li>
+          </ul>
+        </li>
+
+        {/* {hidePortfolio ? null : (
           <li className="has-dropdown">
             <Link to="/portfolio">Portfolio</Link>
             <ul className="td-submenu submenu">
@@ -83,7 +107,7 @@ export const Navbar = ({ hidePortfolio = false }) => {
               </li>
             </ul>
           </li>
-        )}
+        )} */}
       </ul>
     </nav>
   );

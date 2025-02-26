@@ -24,13 +24,13 @@ export const HeaderTwo = () => {
                           <li>
                             <a href="mailto:info@adina.com">
                               <i className="fa-regular fa-envelope-open"></i>
-                              info@adina.com
+                              info@lasergallery.com
                             </a>
                           </li>
                           <li>
                             <a href="tel:+(123)45678900">
                               <i className="fa-regular fa-phone-flip"></i>{" "}
-                              +(123) 456 789 00
+                              +971556024841
                             </a>
                           </li>
                         </ul>
@@ -40,7 +40,7 @@ export const HeaderTwo = () => {
                   <div className="col-xl-4 d-none d-xl-block">
                     <div className="td-header-endeavos text-center">
                       <p>
-                        Adina - for All <a href="#"> your business</a> endeavors
+                        For all reinventing gifts <a href="#">LaserGallery</a> is here
                       </p>
                     </div>
                   </div>
@@ -61,8 +61,7 @@ export const HeaderTwo = () => {
                       </div>
                       <div className="td-header-time td-header-right-border">
                         <span>
-                          <i className="fa-sharp fa-light fa-clock"></i> 10:00am
-                          - 06:00pm
+                          <i className="fa-sharp fa-light fa-clock"></i> 09:00 AM - 11:00 PM
                         </span>
                       </div>
                     </div>
@@ -85,11 +84,11 @@ export const HeaderTwo = () => {
                         <Link className="mr-30" to="/">
                           <img src={LOGO} alt="logo" />
                         </Link>
-                        <div className="td-header-btn d-none d-xl-block">
+                        {/* <div className="td-header-btn d-none d-xl-block">
                           <a className="td-btn-4" href="#">
                             We're hearing!
                           </a>
-                        </div>
+                        </div> */}
                       </div>
                     </div>
 
