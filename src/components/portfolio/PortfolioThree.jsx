@@ -62,7 +62,7 @@ export const PortfolioThree = () => {
         <div className="row">
           <div className="col-12">
             <div className="td-portfolio-title-wrap text-center mb-60">
-              <span className="td-section-title-pre mb-10">Case Study</span>
+              <span className="td-section-title-pre mb-10">Products</span>
               <h2 className="td-section-title">Recent works</h2>
             </div>
           </div>
