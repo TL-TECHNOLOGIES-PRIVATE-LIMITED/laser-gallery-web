@@ -13,7 +13,7 @@ export const ServiceAreaFour = () => {
                 <div className="col-lg-12">
                   <div className="td-service-title-wrap text-center mb-100">
                     <span className="td-section-title-pre mb-10">
-                      Our Business
+                      Our Services
                     </span>
                     <h2 className="td-section-title mb-30">
                       Explore our services
