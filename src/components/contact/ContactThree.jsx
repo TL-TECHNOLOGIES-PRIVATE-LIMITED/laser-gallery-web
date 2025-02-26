@@ -30,22 +30,22 @@ export const ContactThree = () => {
                       </div>
                       <div className="col-xl-5 col-lg-6 col-md-6 col-sm-7">
                         <div className="td-contact-4-content">
-                          <h3 className="td-contact-4-title mb-30">London</h3>
+                          <h3 className="td-contact-4-title mb-30">Downtown Mall Branch</h3>
                           <ul>
                             <li>
                               <a
                                 className="td-contact-4-email"
                                 href="mailto:info@adina-design.com"
                               >
-                                info@adina-design.com
+                                info@lasergallery.com
                               </a>
                             </li>
                             <li className="mb-10">
                               <a
                                 className="td-contact-4-phone"
-                                href="tel:+(123)45678900"
+                                href="tel:+971556024841"
                               >
-                                +(123) 456 789 00
+                                +971556024841
                               </a>
                             </li>
                             <li>
@@ -54,7 +54,7 @@ export const ContactThree = () => {
                                 to="https://www.google.com/maps/@41.6758525,-86.2531698,18.17z"
                                 target="_blank"
                               >
-                                2938 Bingamon Branch Road Highland Park, IL 60035
+                                Dubai Mall, UAE
                               </Link>
                             </li>
                           </ul>
