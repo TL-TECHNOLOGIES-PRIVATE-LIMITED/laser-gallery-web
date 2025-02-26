@@ -15,8 +15,8 @@ export const FaqTwo = () => {
               data-wow-delay=".3s"
               data-wow-duration="1s"
             >
-              <span className="td-section-title-pre mb-10">Impressions</span>
-              <h2 className="td-section-title">Fun fact about company</h2>
+              <span className="td-section-title-pre mb-10">FAQ</span>
+              <h2 className="td-section-title">FAQ's about company</h2>
             </div>
             <div className="td-faq-wrapper">
               <div
