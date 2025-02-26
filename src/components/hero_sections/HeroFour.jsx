@@ -88,14 +88,13 @@ export const HeroFour = () => {
                       <div className="col-lg-7">
                         <div className="td-hero-4-content mt-60">
                           <h3 className="td-hero-4-title mb-55">
-                            Make your
+                            Reinvent
                             <br />
-                            business
+                            Gifts
                             <span>
-                              boom <br />
-                              with
+                              with <br />
                             </span>
-                            <a href="#">Adina</a>
+                            <a href="#">LaserGallery</a>
                           </h3>
                           <div className="td-hero-4-btn">
                             <Link
@@ -147,14 +146,13 @@ export const HeroFour = () => {
                       <div className="col-lg-7">
                         <div className="td-hero-4-content mt-60">
                           <h3 className="td-hero-4-title mb-55">
-                            Make your
+                            Reinvent
                             <br />
-                            business
+                            Gifts
                             <span>
-                              boom <br />
-                              with
+                              With <br />
                             </span>
-                            <a href="#">Adina</a>
+                            <a href="#">LaserGallery</a>
                           </h3>
                           <div className="td-hero-4-btn">
                             <Link
@@ -206,14 +204,13 @@ export const HeroFour = () => {
                       <div className="col-lg-7">
                         <div className="td-hero-4-content mt-60">
                           <h3 className="td-hero-4-title mb-55">
-                            Make your
+                            Reinvent
                             <br />
-                            business
+                            Gifts
                             <span>
-                              boom <br />
-                              with
+                              With <br />
                             </span>
-                            <a href="#">Adina</a>
+                            <a href="#">LaserGallery</a>
                           </h3>
                           <div className="td-hero-4-btn">
                             <Link
@@ -263,7 +260,7 @@ export const HeroFour = () => {
                     <div className="td-hero-4-nav-content">
                       <span>01.</span>
                       <h3 className="td-hero-4-nav-title">
-                        Make your business boom with Adina
+                        Reinvent Gifts With LaserGallery
                       </h3>
                     </div>
                     <div className="td-hero-4-nav-thumb">
@@ -276,7 +273,7 @@ export const HeroFour = () => {
                     <div className="td-hero-4-nav-content">
                       <span>02.</span>
                       <h3 className="td-hero-4-nav-title">
-                        Make your business boom with Adina
+                        Reinvent Gifts With LaserGallery
                       </h3>
                     </div>
                     <div className="td-hero-4-nav-thumb">
@@ -289,7 +286,7 @@ export const HeroFour = () => {
                     <div className="td-hero-4-nav-content">
                       <span>03.</span>
                       <h3 className="td-hero-4-nav-title">
-                        Make your business boom with Adina
+                        Reinvent Gifts With LaserGallery
                       </h3>
                     </div>
                     <div className="td-hero-4-nav-thumb">
@@ -305,19 +302,19 @@ export const HeroFour = () => {
           <div className="td-hero-4-navigation-wrapper d-flex justify-content-between">
             <button
               className="td-hero-4-navigation-next"
-              // onClick={() => {
-              //   toPrevSmall();
-              //   toPrevBig();
-              // }}
+            // onClick={() => {
+            //   toPrevSmall();
+            //   toPrevBig();
+            // }}
             >
               <i className="fa-light fa-arrow-left-long"></i>
             </button>
             <button
               className="td-hero-4-navigation-prev"
-              // onClick={() => {
-              //   toNextSmall();
-              //   toNextBig();
-              // }}
+            // onClick={() => {
+            //   toNextSmall();
+            //   toNextBig();
+            // }}
             >
               <i className="fa-light fa-arrow-right-long"></i>
             </button>
