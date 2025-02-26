@@ -42,7 +42,7 @@ export const HeaderFour = () => {
                       className="td-header-lang-toggle"
                       id="td-header-lang-toggle"
                     >
-                      <i className="fa-light fa-globe"></i> Schedule
+                      <i className="fa-light fa-globe"></i> Working Hours
                     </span>
                     <ul className="td-header-lang-list td-lang-list">
                       <li>Spanish</li>
@@ -52,8 +52,7 @@ export const HeaderFour = () => {
                   </div>
                   <div className="td-header-time td-header-4-time td-header-right-border">
                     <span>
-                      <i className="fa-sharp fa-light fa-clock"></i> 10:00am -
-                      06:00pm
+                      <i className="fa-sharp fa-light fa-clock"></i> 9:00 AM - 11:00 PM
                     </span>
                   </div>
                 </div>
@@ -77,11 +76,11 @@ export const HeaderFour = () => {
                         <Link className="mr-30" to="/">
                           <img src={LOGO_WHITE} alt="logo" />
                         </Link>
-                        <div className="td-header-btn td-header-4-btn d-none d-xl-block">
+                        {/* <div className="td-header-btn td-header-4-btn d-none d-xl-block">
                           <a className="td-btn-4" href="#">
                             We're hearing!
                           </a>
-                        </div>
+                        </div> */}
                       </div>
                     </div>
 
