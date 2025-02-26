@@ -19,7 +19,6 @@ export const TextSliderOne = () => {
           <div className="col-12">
             <div
               className="swiper-container pb-185 td-hero-text-slider-active td-hero-4-text-slider"
-             
             >
               <div className="swiper-wrapper slide-transtion">
                 <Swiper {...swiper_settings}>
