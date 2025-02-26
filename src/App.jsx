@@ -8,6 +8,7 @@ import { usePureCounter } from "./hooks/usePureCounter";
 
 import { HomeFour } from "./pages/home/HomeFour";
 import { ErrorPage } from "./pages/error/ErrorPage";
+import { About } from "./pages/about/About";
 
 function App() {
   useWow();
@@ -25,6 +26,7 @@ function App() {
     <>
       <Routes>
         <Route path="/" element={<HomeFour />} />
+        <Route path="/about" element={<About />} />
         <Route path="*" element={<ErrorPage />} />
       </Routes>
     </>

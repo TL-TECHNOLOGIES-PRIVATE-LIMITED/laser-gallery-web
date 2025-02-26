@@ -27,10 +27,10 @@ export const Navbar = ({ hidePortfolio = false }) => {
         </li>
 
         <li className="has-dropdown">
-          <a href="#">About</a>
+          <a href="/about">About</a>
           <ul className="td-submenu submenu">
             <li>
-              <Link to="/portfolio">Why choose Us?</Link>
+              <Link to="/about">Why choose Us?</Link>
             </li>
           </ul>
         </li>
