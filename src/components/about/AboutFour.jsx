@@ -49,15 +49,13 @@ export const AboutFour = () => {
               data-wow-duration="1s"
             >
               <span className="td-section-title-pre mb-10">
-                Started From 1972
+                Started From 2004
               </span>
               <h2 className="td-section-title mb-30">
-                Our business is taking care of your business
+                Reinvent gifts and offer like never-before.
               </h2>
               <p className="td-about-para pr-10 pb-45">
-                We are constantly rethinking the future by creating the next
-                generation of products, brands and services from a hybrid
-                perspective. The unthinkable today becomes inevitable.
+                Laser Gallery is all about happiness. Since 2004, Laser Gallery has one focus; to offer innovative ideas and unique personalization experience to help our signature customers spread happiness.
               </p>
               <div className="td-about-4-info">
                 <div className="row">
@@ -106,7 +104,7 @@ export const AboutFour = () => {
                       </span>
                       <div className="td-about-4-contact-info">
                         <span>Get In Touch</span>
-                        <a href="tel:+51174705812">+51 174 705 812</a>
+                        <a href="tel:+51174705812">+971556024841</a>
                       </div>
                     </div>
                   </div>
