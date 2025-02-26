@@ -82,7 +82,7 @@ export const ContactThree = () => {
                                 className="td-contact-4-email"
                                 href="mailto:info@adina-design.com"
                               >
-                                info@adina-design.com
+                                info@lasergallery.com
                               </a>
                             </li>
                             <li className="mb-10">

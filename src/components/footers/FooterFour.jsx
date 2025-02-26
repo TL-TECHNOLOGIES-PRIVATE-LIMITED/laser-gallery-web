@@ -15,9 +15,9 @@ export const FooterFour = () => {
                     <img src={logoWhite} alt="logo" />
                   </Link>
                   <p className="td-footer-4-para">
-                    From strategy to delivery, we are here to make
+                    Reinventing gifts with
                     <br />
-                    sure your business succeeds.
+                    LaserGallery
                   </p>
                 </div>
               </div>
@@ -28,9 +28,9 @@ export const FooterFour = () => {
                     <li>
                       <Link to="/company">Company</Link>
                       <Link to="/careers">Careers</Link>
-                      <Link to="/press">Press Media</Link>
-                      <Link to="/blog">Our Blog</Link>
-                      <Link to="/privacy-policy">Privacy Policy</Link>
+                      <Link to="/press">Refund Poiicy</Link>
+                      <Link to="/privacy-policy">Cancellation Policy</Link>
+                      <Link to="/blog">Become a distributor</Link>
                     </li>
                   </ul>
                 </div>
@@ -41,12 +41,13 @@ export const FooterFour = () => {
                   <div className="td-footer-4-link">
                     <a href="mailto:info@adina-design.com">
                       <i className="fa-sharp fa-regular fa-location-dot"></i>71
-                      South Los Carneros Road, California
+                      Downtown Mall Branch
+                      Dubai Mall, UAE
                     </a>
-                    <a href="mailto:info@adina-design.com">
-                      <i className="fa-regular fa-envelope"></i>adina@mail.com
+                    <a href="mailto:info@lasergallery.com">
+                      <i className="fa-regular fa-envelope"></i>info@lasergallery.com
                     </a>
-                    <a href="tel:+51174705812">
+                    <a href="tel:+971556024841">
                       <span>
                         <svg
                           width="20"
@@ -63,7 +64,7 @@ export const FooterFour = () => {
                           </g>
                         </svg>
                       </span>
-                      +51 174 705 812
+                      +971556024841
                     </a>
                   </div>
                 </div>
@@ -144,7 +145,7 @@ export const FooterFour = () => {
                     <div className="col-lg-6 col-md-5">
                       <div className="td-footer-3-bottom-copyright mb-10">
                         <p>
-                          © 2024 <Link to="/">Example</Link>, All rights
+                          © 2025 <Link to="/">Example</Link>, All rights
                           reserved.
                         </p>
                       </div>
