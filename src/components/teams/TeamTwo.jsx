@@ -127,7 +127,7 @@ export const TeamTwo = () => {
           >
             <div className="td-team-4-title-wrap ml-120">
               <span className="td-section-title-pre mb-10">Real Heros</span>
-              <h2 className="td-section-title mb-90">Meet the advisors</h2>
+              <h2 className="td-section-title mb-90">Meet Our Team</h2>
               <div className="td-team-4-btn-wrap d-flex align-items-center">
                 <div className="td-about-btn mr-20">
                   <Link className="td-btn td-left-right" to="/team">
